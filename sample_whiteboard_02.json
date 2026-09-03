@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "canvasWidth": 1600,
+  "canvasHeight": 800,
+  "strokes": [
+    {
+      "points": [
+        {
+          "x": 200,
+          "y": 500
+        },
+        {
+          "x": 250,
+          "y": 450
+        },
+        {
+          "x": 300,
+          "y": 500
+        },
+        {
+          "x": 350,
+          "y": 450
+        }
+      ],
+      "color": "#16A34A",
+      "width": 10
+    }
+  ],
+  "shapes": [
+    {
+      "type": "CIRCLE",
+      "left": 500,
+      "top": 350,
+      "right": 750,
+      "bottom": 600,
+      "color": "#9333EA",
+      "strokeWidth": 8,
+      "sides": 5
+    },
+    {
+      "type": "POLYGON",
+      "left": 850,
+      "top": 300,
+      "right": 1100,
+      "bottom": 550,
+      "color": "#F59E0B",
+      "strokeWidth": 7,
+      "sides": 6
+    },
+    {
+      "type": "LINE",
+      "left": 1150,
+      "top": 300,
+      "right": 1450,
+      "bottom": 600,
+      "color": "#111827",
+      "strokeWidth": 5,
+      "sides": 5
+    }
+  ],
+  "texts": [
+    {
+      "text": "Offline Classroom Board",
+      "x": 500,
+      "y": 700,
+      "color": "#EF4444",
+      "size": 28,
+      "width": 600,
+      "height": 80
+    }
+  ]
+}

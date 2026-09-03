@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111827</color>
+    <color name="surface">#F8FAFC</color>
+    <color name="toolbar">#FFFFFF</color>
+    <color name="primary">#315EF6</color>
+    <color name="border">#E5E7EB</color>
+</resources>
